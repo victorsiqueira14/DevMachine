@@ -9,16 +9,22 @@ Fourth you need to config the Oh My Zsh Alia's with:
 
 code . ~/ .zshrc
 
-alias zshconfig="mate ~/.zshrc"
-alias wip="git add . && git commit -m 'wip'"
-alias ga="git add ."
-alias gc="git commit -m"
-alias gp="git push -u origin"
-alias serve="php artisan serve"
-alias art="php artisan"
-alias migrate="php artisan migrate"
-alias pf="phpunit --filter"
-alias teste="php artisan test"
+<div>
+
+alias zshconfig="mate ~/.zshrc"  <br>
+alias wip="git add . && git commit -m 'wip'" <br>
+alias ga="git add ." <br>
+alias gc="git commit -m" <br>
+alias gp="git push -u origin" <br>
+alias serve="php artisan serve" <br>
+alias art="php artisan" <br>
+alias migrate="php artisan migrate" <br>
+alias pf="phpunit --filter" <br>
+alias teste="php artisan test" <br>
+
+  
+</div>
+
 
 Productive Apps => 
 - Rectangle 
